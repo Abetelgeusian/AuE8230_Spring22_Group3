@@ -1,12 +1,12 @@
 
 # AuE8230 Final Project - Turtlebot3 Autonomous Maneuvers (Group 3)
 
-This is ROS-based project using Turtlebot3 Burger in simulation (Gazebo) and real-world environmnet. Final project as part of class AuE8930 - Autonomy Science and Systems at CUICAR.
+This is ROS-based project using Turtlebot3 Burger in simulation (Gazebo) and real-world environment. Final project as part of class AuE8930 - Autonomy Science and Systems at CUICAR.
 
 
 # Project Overview:
 
-Project divided into autonomous maneuvers in simulation and real world environment.
+Project had two parts: Simulation in Gazebo and Sim2Real implementation.
 
 ## The Environment
 
